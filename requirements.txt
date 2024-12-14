@@ -1,0 +1,12 @@
+python-dotenv
+langchain
+langchain-core
+langchain-pinecone
+langchain-groq
+langchain-huggingface
+langgraph
+tavily-python
+gradio
+pinecone-client
+huggingface-hub
+transformers
